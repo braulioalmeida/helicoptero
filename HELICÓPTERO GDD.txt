@@ -1,0 +1,41 @@
+Jogo do Helicóptero
+
+Tela de Abertura:
+Animada com o fundo do jogo, com carros passando, em 3D. Jogo inicia com zoom no cenário.
+
+Passar as fases por travamento da câmera, limitando o quanto o player pode avançar.
+A dificuldade aumenta com a área maior pra cobrir.
+
+
+3 fases
+
+Manhã - Tarde - Noite
+
+Manhã - Level 01
+
+Tarde - Level 02
+
+Noite - Level 03
+
+___________________________
+
+
+Manhã - Level 01
+Desafios: 
+a - resgatar 10 pessoas
+b - aviões
+c - balãos
+
+
+Tarde - Level 02
+Desafios: 
+a - resgatar 15 pessoas
+b - pássaros
+c - carros
+
+
+Noite - Level 03
+Desafios: 
+a - resgatar 20 pessoas
+b - dinossauros
+c - carros

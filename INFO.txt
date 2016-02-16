@@ -1,0 +1,12 @@
+Jogo do Helicóptero. V1.01
+
+
+
+1- A pasta "Design" se refere a todas as imagens e animações prontas para serem inseridas no game. Imagens de referência (com boas idéias que mereçam ser discutidas, implementadas) serão guardadas na pasta "Referências".
+
+2- Na pasta "Referências" pode-se guardar tudo que é interessante e relativo ao jogo e ainda não foram implementados como sons, imagens, sprites, etc. 
+
+3- A pasta "Helicóptero" é a pasta de trabalho do Unity e não deve ser modificada externamente. Se precisarem deletar sprites, animações ou qualquer outros objetos, façam por dentro do Unity. nunca por fora, pra evitar conflitos. 
+
+
+O Arquivo GDD se refere às idéias para o jogo (originalmente o GDD não trata disso, mas vamos usar esse arquivo assim nesse primeiro momento). Atenção! Não é um documento pra sugestões! Discutiremos as idéias no chat. O GDD é uma lista de features que decidimos que vai ter no jogo.
