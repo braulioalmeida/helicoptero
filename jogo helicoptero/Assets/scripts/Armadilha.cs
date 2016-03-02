@@ -15,9 +15,9 @@ public class Armadilha : MonoBehaviour {
 	
 	}
 
-	void OnTriggrerEnter2D (Collider2D col)
-	{
-	GameObject tempPrefab = Instantiate (Prefab) as GameObject;
-	
+	void OnTriggerEnter2D (Collider2D col){
+		if (col.gameObject.tag == "Player") {
+			GameObject tempPrefab = Instantiate (Prefab) as GameObject;	
+		}
 	}
 }

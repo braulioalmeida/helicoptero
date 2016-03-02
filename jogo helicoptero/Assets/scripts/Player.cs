@@ -39,7 +39,7 @@ public class Player : MonoBehaviour {
 
 		movimentoX = Input.GetAxis ("Horizontal");
 	
-		if(Input.GetButtonDown("Jump"))
+		if(Input.GetButton("Jump"))
 			
 			{
 			RigidBodyPlayer.velocity = new Vector2 (0, 0);
