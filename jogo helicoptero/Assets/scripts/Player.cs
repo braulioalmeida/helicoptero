@@ -101,8 +101,10 @@ public class Player : MonoBehaviour {
 
 	void OnTriggerStay2D (Collider2D col) // vai ficar execultando enquanto estiver colidindo
 	{
-		
-		WallCheck = true;
+		if (col.tag != "gatilhos" && col.tag != "objeto") 
+		{
+			WallCheck = true;
+		}
 	}
 
 	void OnCollisionEnter2D (Collision2D col)
